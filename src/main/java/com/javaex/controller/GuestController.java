@@ -16,6 +16,7 @@ import com.javaex.vo.GuestBookVo;
 
 @Controller
 public class GuestController {
+	
 	@Autowired
 	private GuestService guestService;
 	
